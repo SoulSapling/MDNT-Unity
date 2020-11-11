@@ -335,6 +335,14 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4797833779666085035, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
+      propertyPath: m_Texture
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4797833779666085035, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4797833779760195671, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
@@ -342,6 +350,10 @@ PrefabInstance:
     - target: {fileID: 4797833779939231444, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4797833780740171148, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
+      propertyPath: m_Name
+      value: GuitarAudioObjects
       objectReference: {fileID: 0}
     - target: {fileID: 4797833781167079742, guid: b55b094d7515cba48babfa25d956ad0a, type: 3}
       propertyPath: m_AnchorMin.y
