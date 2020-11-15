@@ -501,7 +501,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 930c9d6d931b0a040b2f6529ac8cbdb7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 166dc205eb80e394d94ede21c6583cbe, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -919,7 +919,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 29e53f0a419ef894e84d7774181b9c19, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b5acd1f0af2b00645be3e06f77da2844, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1046,7 +1046,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 2b2545a766759fd4e91bc1791ef071ae, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b00894a415bb18047ba345b823c99aa9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1230,7 +1230,7 @@ GameObject:
   - component: {fileID: 643070481}
   - component: {fileID: 643070482}
   m_Layer: 0
-  m_Name: DrumAudioTribal
+  m_Name: DrumAudioCajon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1260,7 +1260,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 032c82df8235ed148ba4d5c35037b8f4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 1c70313d0522c9e44b134c50833fe0f7, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1678,7 +1678,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b4b83b4d9bb3f4f48a57a268131c8cbb, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7a44485e91b4a6f46adb87236839db30, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
