@@ -471,7 +471,7 @@ GameObject:
   - component: {fileID: 232438359}
   - component: {fileID: 232438360}
   m_Layer: 0
-  m_Name: DrumsAudioArcade
+  m_Name: DrumsAudioBase
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -501,7 +501,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 14f9bb5a627301146b58970a317fbff0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bef82d9c97f17de45968f408789f4570, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -889,7 +889,7 @@ GameObject:
   - component: {fileID: 512651242}
   - component: {fileID: 512651243}
   m_Layer: 0
-  m_Name: DrumAudioMystery
+  m_Name: DrumAudioShaker
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -919,7 +919,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 19f1d44d00c92df45837e1ee71756af7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0f8e09964df2e594a83246ef3ddcc02f, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1016,7 +1016,7 @@ GameObject:
   - component: {fileID: 546773273}
   - component: {fileID: 546773274}
   m_Layer: 0
-  m_Name: DrumAudioBongos
+  m_Name: DrumAudioClassic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1046,7 +1046,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 4de15275d7f157c42a0a907a22942a62, type: 3}
+  m_audioClip: {fileID: 8300000, guid: a52e2c4fc3fd8e949a1040267a43c13a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1230,7 +1230,7 @@ GameObject:
   - component: {fileID: 643070481}
   - component: {fileID: 643070482}
   m_Layer: 0
-  m_Name: DrumAudioThud
+  m_Name: DrumAudioTribal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1260,7 +1260,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e058abe129cf8b94a8e41ea293adca8e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 835d7610fac1b684ebb61b83006449f4, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -1648,7 +1648,7 @@ GameObject:
   - component: {fileID: 971659280}
   - component: {fileID: 971659281}
   m_Layer: 0
-  m_Name: DrumAudioSymbol
+  m_Name: DrumAudioTambourine
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1678,7 +1678,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: add1d4b5a00c83547a855dbaabe4527f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7950363ed0833e4489427518f90bf45d, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
