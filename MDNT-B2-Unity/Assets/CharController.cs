@@ -21,12 +21,10 @@ public class CharController : MonoBehaviour
         if (drumsAudioObjects[0].mute == false || drumsAudioObjects[1].mute == false || drumsAudioObjects[2].mute == false || drumsAudioObjects[3].mute == false || drumsAudioObjects[4].mute == false)
         {
             anim.SetBool("drumsOn", true);
-            Debug.Log("mute is off");
         }
         else
         {
             anim.SetBool("drumsOn", false);
-            Debug.Log("mute is on");
         }
     }
 }
