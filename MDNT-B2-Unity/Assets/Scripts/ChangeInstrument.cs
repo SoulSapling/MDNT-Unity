@@ -17,6 +17,7 @@ public class ChangeInstrument : MonoBehaviour
         Instrument[2].SetActive(false);
         Instrument[3].SetActive(false);
         Instrument[4].SetActive(false);
+        Instrument[5].SetActive(false);
 
     }
 
@@ -27,6 +28,7 @@ public class ChangeInstrument : MonoBehaviour
         Instrument[2].SetActive(false);
         Instrument[3].SetActive(false);
         Instrument[4].SetActive(false);
+        Instrument[5].SetActive(true);
     }
 
     public void SelectDrum()
@@ -36,6 +38,7 @@ public class ChangeInstrument : MonoBehaviour
         Instrument[2].SetActive(true);
         Instrument[3].SetActive(false);
         Instrument[4].SetActive(false);
+        Instrument[5].SetActive(false);
     }
 
     public void SelectPiano()
@@ -45,6 +48,7 @@ public class ChangeInstrument : MonoBehaviour
         Instrument[2].SetActive(false);
         Instrument[3].SetActive(true);
         Instrument[4].SetActive(true);
+        Instrument[5].SetActive(false);
     }
 
     // Update is called once per frame
